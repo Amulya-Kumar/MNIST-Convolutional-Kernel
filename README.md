@@ -1,3 +1,3 @@
-# MNIST Convolutional Kernel
+# MNIST Convolutional Prediction
 
 A new Machine Learning project.
